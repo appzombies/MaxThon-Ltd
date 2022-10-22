@@ -13,7 +13,7 @@
   "AdmobOpenAds": "ca-app-pub-8070959747139988/3638900756",
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "adType": "admob",
+  "adType": "fb",
   "adStatus": "admob",
   "loadMore":false,
   "adMobTime":50
