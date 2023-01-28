@@ -6,15 +6,15 @@
   "fbInter": "692283408932343_692285688932115",
   "fbNative": "692283408932343_692285788932105",
   "fbNativeBnnr": "206761076723476_785200065546238",
-  "AdmobBannr": "/21753324030,22792603201/com.maxthon.rgblightremote.ledremote.rgbledremote.ledseriesremote.ledstripremote_Banner",
-  "AdmobInter": "/21753324030,22792603201/com.maxthon.rgblightremote.ledremote.rgbledremote.ledseriesremote.ledstripremote_Interstitial",
+  "AdmobBannr": "ca-app-pub-9449995187191149/4208159585",
+  "AdmobInter": "ca-app-pub-9449995187191149/1581996242",
   "AdmobInterSplash":"",
-  "AdmobNative": "/21753324030,22792603201/com.maxthon.rgblightremote.ledremote.rgbledremote.ledseriesremote.ledstripremote_Native",
-  "AdmobOpenAds": "/21753324030,22792603201/com.maxthon.rgblightremote.ledremote.rgbledremote.ledseriesremote.ledstripremote_AppOpen",
+  "AdmobNative": "ca-app-pub-9449995187191149/9268914573",
+  "AdmobOpenAds": "ca-app-pub-9449995187191149/3319132636",
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "adType": "fb",
+  "adType": "admob",
   "adStatus": "admob",
   "loadMore":false,
-  "adMobTime":20
+  "adMobTime":40
 }
