@@ -6,15 +6,15 @@
   "fbInter": "967922680456368_967923410456295",
   "fbNative": "967922680456368_967923573789612",
   "fbNativeBnnr": "967922680456368_967923573789612",
-  "AdmobBannr": "/21753324030,22792603201/com.maxthon.duplicatecontact.ccleaner.duplicatecontactdelete_Banner",
-  "AdmobInter": "/21753324030,22792603201/com.maxthon.duplicatecontact.ccleaner.duplicatecontactdelete_Interstitial",
+  "AdmobBannr": "ca-app-pub-9449995187191149/7137822677",
+  "AdmobInter": "ca-app-pub-9449995187191149/8973648529",
   "AdmobInterSplash":"",
-  "AdmobNative": "/21753324030,22792603201/com.maxthon.duplicatecontact.ccleaner.duplicatecontactdelete_Native",
-  "AdmobOpenAds": "/21753324030,22792603201/com.maxthon.duplicatecontact.ccleaner.duplicatecontactdelete_AppOpen",
+  "AdmobNative": "ca-app-pub-9449995187191149/6315695597",
+  "AdmobOpenAds": "ca-app-pub-9449995187191149/3250301132",
   "admob_pub_id": "pub-3483860879009537",
   "admob_app_id": "ca-app-pub-3483860879009537~8207434833",
   "adType": "admob",
   "adStatus": "admob",
   "loadMore":false,
-  "adMobTime":50
+  "adMobTime":40
 }
